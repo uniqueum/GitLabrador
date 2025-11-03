@@ -1,5 +1,10 @@
 # 🐾 GitLabrador: Cross-Platform GitLab Notifier
 
+![AGPLv3](https://img.shields.io/badge/license-AGPLv3-blue)
+![Cross-Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-green)
+![No Telemetry](https://img.shields.io/badge/privacy-No%20Telemetry-important)
+![ISO 27001-Aligned](https://img.shields.io/badge/security-ISO%2027001--Aligned-blueviolet)
+
 ## 💡 Why GitLabrador?
 
 GitLab’s `/todos` endpoint is powerful — but it’s trapped in the browser. GitLabrador sets it free.
@@ -199,9 +204,15 @@ Platform detection via `RuntimeInformation.OSDescription` ensures the correct no
 
 ## 📜 License
 
-GitLabrador will be released under the **GNU GPLv3**.
+GitLabrador will be released under the **GNU AGPLv3**.
 
 > Free puppies for all. No proprietary leashes.
+
+---
+
+## 🛡️ Security
+
+While GitLabrador is free and open for all, it is built with security in mind. Credential handling, platform integration, and release practices follow company internal standards aligned with ISO 27001.
 
 ---
 
@@ -209,3 +220,4 @@ GitLabrador will be released under the **GNU GPLv3**.
 
 **Coming Soon**  
 GitLabrador is currently in active development. A public release will follow once security, stability, and documentation milestones are met.
+
